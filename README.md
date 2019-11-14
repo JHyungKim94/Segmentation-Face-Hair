@@ -14,7 +14,7 @@ b. In DCNN: Apply Dilated Convolution → ASPP(Atrous Spatial Pyramid Pooling)
 
 c. In Post processing: Apply Fully connencted CRF(Conditional Random Field)
 
-> b~c: in Deeplab v2 paper, contribution 
+> b~c: in Deeplab v2 paper, contribution (Explain by Deeplab.pdf)
 
 ### 4. Reference
 a. "Fully Convolutional Networks for Semantic Segmentation" (Jonathan Long, Evan Shelhamer, Trevor Darrell)
