@@ -9,11 +9,16 @@
 
 ### 3. Future plan(Further More)
 a. Why symmetric?: FCN is learning on only single scale…
+
 b. In DCNN: Apply Dilated Convolution → ASPP(Atrous Spatial Pyramid Pooling)
+
 c. In Post processing: Apply Fully connencted CRF(Conditional Random Field)
+
 > b~c: in Deeplab v2 paper, contribution 
 
 ### 4. Reference
 a. "Fully Convolutional Networks for Semantic Segmentation" (Jonathan Long, Evan Shelhamer, Trevor Darrell)
+
 b. "Learning Deconvolution Network for Semantic Segmentation" (Hyeonwoo Noh, Seunghoon Hong, Bohyung Han)
+
 c. "U-Net: Convolutional Networks for Biomedical Image Segmentation" (Olaf Ronneberger, Philipp Fischer, Thomas Brox)
